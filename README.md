@@ -1,6 +1,10 @@
 # number-guessing-game-fullstack
 
 A full-stack web app where users try to guess a randomly generated number between 1 and 100. The app tracks statistics including total games played, win rate, and average guesses per game.
+<p align="center">
+  <img width="692" height="725" alt="Screenshot 2025-10-06 at 6 13 53 PM" src="https://github.com/user-attachments/assets/289c1e95-9d0c-44eb-8cdb-621c1f669cfd" />
+</p>
+
 
 ## Prerequisites
 
